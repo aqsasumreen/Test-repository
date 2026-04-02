@@ -1,2 +1,2 @@
 # Test-repository
-This is a test repository for testing new features of GitHub.
+This is a test repository for testing all the  new features of GitHub.
